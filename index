@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+v<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -97,7 +97,10 @@ footer{margin-top:56px;padding-top:24px;border-top:1px solid var(--line);color:v
 <section id="about" aria-labelledby="about-h">
   <h2 id="about-h">About</h2>
   <div class="about">
-    <p>BEng (Hons) Electro-Mechanical Engineering, Oxford Brookes University 2021-2025. First class graduate.</p>
+    <p>BEng (Hons) Electro-Mechanical Engineering, Oxford Brookes University 2021-2025. First class graduate.
+I am an electro-mechanical engineer with experience in embedded systems, robotics, and autonomous technology. 
+My work combines engineering fundamentals with practical experimentation, from embedded hardware design to control systems and real-world prototyping. 
+I enjoy building systems that are technically robust, efficient, and grounded in real applications.</p>
 	<p>2025-current: Oxford Technical Solutions. Supplier Quality Engineer</p>
     <p>2023-2024: BMW group: Electro-Mechanical engineering intern- Inverter and Battery development</p>
 	<p>Tools: KiCad, EasyPC, EasyEDA, Altium Designer, Solidworks, Fusion360, Catia V5, NI Multisim, Python, Matlab (Simulink) </p>
